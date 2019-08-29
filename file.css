@@ -1,0 +1,50 @@
+header-search input {
+	background-color: transparent;
+	border: 0;
+}
+
+.header-search .input-group-text {
+	background-color: transparent;
+	border: 0;
+	padding-right: 0;
+}
+
+.header-search input::placeholder { 
+  color: white;
+}
+
+.header-search input:focus {
+	background-color: transparent;
+	border: 0;
+}
+
+.bg{
+	background-color: #8000CE;
+	width:1920pxpx;
+	height: 555px;
+}
+.nav-link
+{
+    color: white;
+}
+
+.nav-links
+{
+    color: #040404;
+}
+.btalign{
+    padding: 154px;
+    font-size: 56px;
+    color: white;
+}
+.bsize{
+	font-size: 31px;
+}
+.buttoncolor
+{
+	color:white;
+	background-color: blue;
+	font-weight: bold;
+	border-radius: 19px;
+
+}
